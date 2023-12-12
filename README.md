@@ -13,7 +13,7 @@
 * **Recharts**: Data visualization library for creating insightful and captivating charts and graphs
 * **MySQL**:  The reliable relational database for storing all your agency's data
 
-### Project Highlights:
+### Project Highlights:-
 
 * **3 Interactive Pages**:
     * **Home**: Capture the essence of your agency and its services with style.
